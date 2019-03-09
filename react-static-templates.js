@@ -1,5 +1,5 @@
 
-import universal, { setHasBabelPlugin } from '/Users/kate/Developments/motor-junction/node_modules/react-static/node_modules/react-universal-component/dist/index.js'
+import universal, { setHasBabelPlugin } from '/Users/jim/Developments/jkimau/motor-junction/node_modules/react-static/node_modules/react-universal-component/dist/index.js'
 
 
 setHasBabelPlugin()
